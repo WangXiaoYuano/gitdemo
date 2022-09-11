@@ -7,7 +7,4 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git
-hello git
-hello gitllo git
+hello  gitllo git
